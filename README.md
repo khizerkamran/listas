@@ -1,2 +1,2 @@
-# lists
+# list
 lists python
